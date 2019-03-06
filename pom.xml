@@ -23,8 +23,6 @@
         <org.mapstruct.version>1.2.0.Final</org.mapstruct.version>
         <spring.boot.version>2.0.1.RELEASE</spring.boot.version>
         <project.lombok.version>1.16.20</project.lombok.version>
-        <apache.poi.version>3.17</apache.poi.version>
-        <lowagie.version>2.1.7</lowagie.version>
     </properties>
 
     <dependencies>
